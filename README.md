@@ -1,1 +1,1 @@
-#Salary & No.of experience (Simple Linear Model)
+Salary & No.of experience (Simple Linear Model)
